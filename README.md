@@ -1,14 +1,14 @@
-# Books' solutions
-Solutions to various books written in Python and given in Jupyter notebook:
+# Textbook Solutions
+A collection of solutions to different textbooks, written in Python and presented as Jupyter notebooks.
 
-An Introduction to Modern Astrophysics, Cambridge University Press, 2017, 2nd edition <br>
-Foundations of Astrophysics, Pearson Education 2010, 1st edition <br> 
-Fundamental Astronomy, Springer 2017, 6th edition <br>
+## Curent Textbooks
+An Introduction to Modern Astrophysics, Cambridge University Press, 2017, 2nd edition - [solutions here](/Introduction_to_Modern_Astrophysics/) <br>
+Foundations of Astrophysics, Pearson Education 2010, 1st edition - [solutions here](/Foundations_of_Astrophysics/) <br> 
+Fundamental Astronomy, Springer 2017, 6th edition - [solutions here](/Fundamental_Astronomy/) <br>
 
 
----
 
-Planned textbooks:
+## Planned textbooks:
 
 21st Century Astronomy, W. W. Norton & Company, 5th edition <br>
 Astronomy: At Play in the Cosmos, W. W. Norton & Company <br>
