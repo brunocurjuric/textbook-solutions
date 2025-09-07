@@ -44,5 +44,4 @@ Bradley W. Carroll (Weber State University) and Dale A. Ostlie (Weber State Univ
 
 ---
 
-Problems can be found at the end of each chapter, right after suggested reading and right before the next chapter  
-(**488 problems and 28 computer problems altogether**).
+Problems and computer problems can be found at the end of each chapter, right after suggested reading and right before the next chapter (488 problems and 28 computer problems altogether).
