@@ -8,7 +8,7 @@ Hannu Karttunen, Pekka Kröger, Heikki Oja, Markku Poutanen, Karl Johan Donner
 | Chapter | Problems | Solutions | Solved |
 |---------|---------|----------|-------|
 | 1 Introduction | 0 | - | - |
-| 2 Spherical Astronomy | 10 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%202.ipynb) | 0% |
+| 2 Spherical Astronomy | 10 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%202.ipynb) | 10% |
 | 3 Observations and Instruments | 2 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%203.ipynb) | 0% |
 | 4 Photometric Concepts and Magnitudes | 5 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%204.ipynb) | 0% |
 | 5 Radiation Mechanisms | 8 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%205.ipynb) | 0% |
