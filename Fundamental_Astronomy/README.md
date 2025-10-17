@@ -18,8 +18,8 @@ Hannu Karttunen, Pekka Kröger, Heikki Oja, Markku Poutanen, Karl Johan Donner
 | 9 Stellar Spectra | 1 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%209.ipynb) | 0% |
 | 10 Binary Stars and Stellar Masses | 3 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2010.ipynb) | 0% |
 | 11 Stellar Structure | 3 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2011.ipynb) | 0% |
-| 12 Stellar Evolution | 3 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2012.ipynb) | 0% |
-| 13 The Sun | 2 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2013.ipynb) | 0% |
+| 12 Stellar Evolution | 3 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2012.ipynb) | 33% |
+| 13 The Sun | 2 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2013.ipynb) | 100% |
 | 14 Variable Stars | 3 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2014.ipynb) | 0% |
 | 15 Compact Stars | 3 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2015.ipynb) | 0% |
 | 16 The Interstellar Medium | 3 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2016.ipynb) | 0% |
